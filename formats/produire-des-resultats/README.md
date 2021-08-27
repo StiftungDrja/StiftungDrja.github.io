@@ -1,0 +1,7 @@
+# Produire des résultats
+
+![](../../.gitbook/assets/gitbook_kollaborieren_750x320.jpg)
+
+Lors de conférences, les sujets peuvent être abordés selon différents points de vue et aboutir à des résultats concrets. Il est important d’assurer la **documentation de ces résultats**, surtout s’ils doivent être traités ultérieurement \(par exemple, via un projet DINA relié à une [salle de type "résultats](../../fonctionnalites/salles/salle-de-resultats.md)"\). Si le groupe doit prendre des notes parallèlement au processus de travail ou si la documentation doit servir de support visuel, vous pouvez utiliser un outil collaboratif, par exemple un pad DINA disponible sur la page projet, auquel les membres du groupe peuvent accéder en direct. Il est recommandé de décider avant le début d’une session de travail qui prendra note des résultats et de désigner une personne responsable. Le reste du groupe peut alors s’impliquer pleinement dans le travail. La personne qui anime la réunion doit s’assurer que tout le monde a la possibilité de s’exprimer. Selon le format, vous pouvez également demander aux personnes plus discrètes de participer à la discussion sur le chat si elles ne souhaitent pas prendre la parole devant le groupe. Faites toujours comprendre que chaque point de vue est précieux et doit être partagé !  
+
+
