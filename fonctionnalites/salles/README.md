@@ -120,7 +120,7 @@ La description d’une salle apparaît au-dessus des événements qui s’y dér
 L’éditeur de la description est un éditeur Markdown. À première vue, il a l’air plus compliqué que ce qu’il est vraiment. Par exemple, si vous voulez écrire du texte en gras, il suffit de l’**encadrer** de deux astérisques. Vous trouverez plus d’informations sur la syntaxe Markdown [ici](https://docs.framasoft.org/fr/grav/markdown.html).
 {% endhint %}
 
-![Syntaxe Markdown \(extrait\)](../../.gitbook/assets/markdown.svg)
+![Syntaxe Markdown \(extrait\)](../../.gitbook/assets/markdown%20%281%29.svg)
 
 #### Visibilité de la salle et du chat
 

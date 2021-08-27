@@ -49,7 +49,7 @@ La description de la conférence est essentielle pour la présenter au public ex
 Quelques règles de base à propos de Markdown :
 {% endhint %}
 
-![](../../.gitbook/assets/markdown.svg)
+![](../../.gitbook/assets/markdown%20%281%29.svg)
 
 #### Informations de contact \(optionnel\)
 
