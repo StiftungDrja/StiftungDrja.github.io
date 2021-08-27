@@ -14,7 +14,7 @@ Il existe trois manières d’obtenir des droits de modération sur BBB :
 
 Dans ce qui suit, nous vous expliquons de quelles options disposent les modératrices et modérateurs d’une visioconférence.
 
-### Gestion des participantes et participants
+## Gestion des participantes et participants
 
 Il existe principalement deux options pour gérer les participantes et participants. La première concerne une personne en particulier, tandis que la deuxième agit sur l’ensemble des participantes et participants à la conférence.
 
@@ -43,7 +43,7 @@ Ici, vous pouvez :
 
 ![Ces droits peuvent &#xEA;tre restreints](../../.gitbook/assets/teilnehmerrechteeinschraenken_fra.png)
 
-### Gestion de la visioconférence
+## Gestion de la visioconférence
 
 Le menu à 3 points en haut à droite vous permet d’effectuer des réglages généraux et de mettre fin à la conférence \(ceci ne dure pas sur DINA, car elle est relancée dès que quelqu’un veut se joindre à la conférence\).
 
@@ -61,7 +61,7 @@ Dans l’onglet **Économies de données**, il est également possible de désac
 Il est également possible de **désactiver les webcams et le partage d’écran uniquement pour les participantes et participants**, et non pour les modératrices et modérateurs via le menu restreindre les droits des participants \(voir ci-dessus\).
 {% endhint %}
 
-### Présentatrice ou présentateur : droits de partage d’écran
+## Présentatrice ou présentateur : droits de partage d’écran
 
 BigBlueButton distingue les participantes et participants normaux des modératrices et modérateurs, ainsi que de la présentatrice ou du présentateur. Une seule personne peut faire une présentation à la fois. La personne disposant actuellement du droit est indiquée par une petite icône de projecteur bleu dans la liste des participantes et participants. Les modératrices et modérateurs peuvent s’attribuer le droit de présentation en cliquant sur le symbole « + » en bas à gauche de la fenêtre vidéo. Ils peuvent également accorder ce droit aux participantes et participants en cliquant sur le nom de la personne correspondante dans la liste.
 

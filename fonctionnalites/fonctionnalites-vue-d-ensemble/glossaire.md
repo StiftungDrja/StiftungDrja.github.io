@@ -4,7 +4,7 @@ description: Termes techniques
 
 # Glossaire
 
-## Termes utilisés sur DINA 📋 
+## Termes utilisés sur DINA 📋
 
 | Termes | Explications |
 | :--- | :--- |
@@ -23,6 +23,4 @@ description: Termes techniques
 | Environnement de la conférence | L’environnement de la conférence désigne l’ensemble de l’infrastructure du centre de conférences numérique, et plus particulièrement la « vue conférence » avec ses salles et ses événements. |
 | [Salles de groupe ](../bigbluebutton/salles-de-groupes.md)\(Break out rooms\) | Les salles de groupe de BigBlueButton sont de petites visioconférences pouvant être créées par la modération au cours d’une visioconférence. Celles-ci peuvent s’avérer très pratiques si vous souhaitez spontanément séparer un grand groupe en plusieurs petits groupes de travail. |
 | [RocketChat](../salles/chat-dans-les-salles.md) | RocketChat est le logiciel de messagerie Open Source intégré de DINA.international. Grâce à RocketChat, vous pouvez communiquer avec des individus ou participer à des discussions de groupe pendant une conférence. Ce logiciel est disponible sous forme d’application pour les téléphones portables et les ordinateurs. |
-
-
 

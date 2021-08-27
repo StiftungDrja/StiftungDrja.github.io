@@ -6,7 +6,7 @@ Les réunions numériques offrent despossibilités variées : elles dépassent l
 
 Un événement réussi qui convainc par son contenu et son côté divertissant n’est pas toujours évident à organiser. Cependant, il existe quelques astuces pour le numérique auxquelles vous devriez prêter attention et qui ne sont pas si intuitives :
 
-### À quoi faut-il faire particulièrement attention avec le numérique ?
+## À quoi faut-il faire particulièrement attention avec le numérique ?
 
 * Les interactions sociales ne se font pas d’elles-mêmes. Qui n’a jamais connu cette situation : vous arrivez dans une réunion numérique et soit tout le monde est aussi silencieux que vous, soit la discussion est déjà lancée et vous ne savez pas comment prendre la parole. Et ensuite, une fois que vous vous lancez, vous êtes la seule personne à parler pendant un moment, ce qui peut être intimidant.  C’est pourquoi, même les bavardages informels doivent être modérés lors de réunions en ligne.  
 * La capacité d’attention est plus faible. Une journée de conférence est fatigante en présentiel, mais presque impossible en distanciel. Les réunions virtuelles sont épuisantes, le cerveau est constamment à la recherche de signaux qui ne se produisent pas dans ce format, et sans les moments de déplacement tels que les changements de salle ou de scène, une journée peut rapidement sembler trois fois plus longue. Le programme doit donc être condensé \(par exemple en omettant des points du programme initialement prévus\) ou mieux réparti \(par exemple en l’étendant sur plusieurs jours\). Le programme doit aussi inclure suffisamment de pauses et nous rappeler régulièrement, par le biais d’activités brise-glace, que nous sommes des êtres humains et non des robots rivés à leur ordinateur portable.  

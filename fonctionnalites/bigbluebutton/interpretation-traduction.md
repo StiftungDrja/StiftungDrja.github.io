@@ -15,7 +15,7 @@ Il nous semble important de rappeler les préparatifs nécessaires à l’interp
 * Les interprètes doivent avoir pris connaissance de la configuration de la conférence sur DINA et testé les fonctions.
 * Les interprètes souhaitent souvent avoir un contact visuel avec leurs collègues, ce qui est possible grâce à une salle vidéo \(cachée, séparée\), dont le son est coupé des deux côtés. Bien sûr, les interprètes peuvent rester en contact grâce à d’autres services de messagerie ou de vidéo.
 
-### Fonctionnement de l’option d’interprétation
+## Fonctionnement de l’option d’interprétation
 
 L’interprétation sur BBB fonctionne comme suit :
 
@@ -24,7 +24,7 @@ L’interprétation sur BBB fonctionne comme suit :
 * Les participantes peuvent choisir quelle langue ils souhaitent entendre. Ils peuvent également choisir le son original sans interprétation \(lorsqu’une personne sélectionne une langue, elle entend l’interprétation ou le son original dans la langue choisie\).
 * Lorsqu’un interprète parle, le volume du son original est réduit.
 
-### Activer l’option d’interprétation
+## Activer l’option d’interprétation
 
 ![Activation de l&#x2019;interpr&#xE9;tation](../../.gitbook/assets/bildschirmfoto-2021-02-02-um-14.53.13_fra.png)
 
@@ -35,7 +35,7 @@ Plus vous ajoutez de langues, plus le réseau d’interprètes se complique. Ave
 \(a➡b, b➡a, a➡c, c ➡ a, b ➡ c, c ➡ b\).
 {% endhint %}
 
-### Pour les interprètes : quelle langue est parlée ?
+## Pour les interprètes : quelle langue est parlée ?
 
 Pour agir en tant qu’interprète, la personne concernée a besoin de droits de modération dans les visioconférences BBB. Ces droits peuvent être accordés [dès la création](../evenements.md#presentateurs-orateurs-moderateurs-optionnel) d’un événement, mais également au cours de celui-ci.
 
@@ -47,19 +47,19 @@ Dans la liste d’options en dessous des vidéos, toutes les personnes présente
 Si la visioconférence ne comprend que quelques langues, rien n’empêche les interprètes d’entendre le son original. En revanche, s’ils ont besoin de l’interprétation, ils doivent choisir la langue.
 {% endhint %}
 
-### Pour les interprètes : dans quelle langue faut-il interpréter ?
+## Pour les interprètes : dans quelle langue faut-il interpréter ?
 
 Les interprètes doivent désormais choisir la langue dans laquelle ils veulent interpréter, c’est-à-dire la langue dans laquelle ils vont s’exprimer. Cela se fait via le bouton « traduire une langue », tout à droite. Si la langue entendue a déjà été renseignée, elle n’est pas disponible dans ce menu, et inversement.
 
 ![](../../.gitbook/assets/uebersetzen_fra.png)
 
-### Interprètes : parler
+## Interprètes : parler
 
 Les interprètes ont leur propre bouton de micro, qu’ils utilisent uniquement lorsqu’ils interprètent. Ce bouton est de couleur violette, tout comme le bouton « traduire une langue ». Lorsque ce microphone est activé, seuls les participants ayant sélectionné la langue correspondante entendront la voix de l’interprète. Le microphone normal peut être utilisé pour être entendu par tous les participants et doit sinon toujours être coupé \(coupé = barré\). Le micro de l’interprète doit lui aussi être coupé lorsqu’il n’est pas utilisé.
 
 ![Micro normal et micro de l&#x2019;interpr&#xE8;te](../../.gitbook/assets/mikrofone-fu-r-u-bersetzung.png)
 
-### Auditrices et auditeurs
+## Auditrices et auditeurs
 
 Pour les auditrices et auditeurs, rien de plus simple : il leur suffit de choisir la langue qu’ils veulent entendre. Pour ce faire, ils doivent cliquer sur le bouton bleu en forme de globe, comme les modératrices et modérateurs.
 

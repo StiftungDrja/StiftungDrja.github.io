@@ -2,14 +2,13 @@
 
 Toute conférence réussie commence par les personnes qui en font partie et contribuent à son déroulement. Au début, il est bienvenu d’inviter les personnes présentes à faire connaissance et à se dire comment elles se sentent mentalement ou émotionnellement. Il s’agit de la seule façon de développer un esprit de groupe et de créer une base pour le dialogue, le libre développement des idées et la création de résultats de groupe. Dans le cadre de l’Impromptu Networking, les participantes et participants sont répartis en petits groupes aléatoires pour échanger en toute confiance.
 
-### Configuration de la salle et nombre de participants
+## Configuration de la salle et nombre de participants
 
-Pour ce format, créez une salle vidéo \(par exemple, un [événement](../../fonctionnalites/evenements.md) dans une [salle d’atelier](../../fonctionnalites/salles/#type-de-salle)\), dans laquelle les personnes peuvent allumer leur caméra au gré des situations. Ce format n’est donc possible que pour les groupes de 40 personnes maximum. Pour des groupes plus conséquents, le groupe doit être divisé au préalable et réparti dans plusieurs salles en même temps pour faire connaissance. Lorsque le groupe revient dans la salle principale après ces échanges spontanés, vous pouvez répéter ce format si vous le souhaitez et enchaîner plusieurs échanges de groupe.  
+Pour ce format, créez une salle vidéo \(par exemple, un [événement](../../fonctionnalites/evenements.md) dans une [salle d’atelier](../../fonctionnalites/salles/#type-de-salle)\), dans laquelle les personnes peuvent allumer leur caméra au gré des situations. Ce format n’est donc possible que pour les groupes de 40 personnes maximum. Pour des groupes plus conséquents, le groupe doit être divisé au préalable et réparti dans plusieurs salles en même temps pour faire connaissance. Lorsque le groupe revient dans la salle principale après ces échanges spontanés, vous pouvez répéter ce format si vous le souhaitez et enchaîner plusieurs échanges de groupe.
 
+## Mise en œuvre
 
-### Mise en œuvre
-
-Dans le cadre de l’Impromptu Networking, les membres du groupe peuvent être réunis plusieurs fois de suite dans différentes [salles de groupe](../../fonctionnalites/bigbluebutton/salles-de-groupes.md) pour échanger de manière spontanée. Ils peuvent rester en groupe pour 5 minutes environ, idéalement à deux. Si le nombre de personnes ne correspond pas, il est possible de se réunir par trois ou qu’un membre de l’équipe organisatrice serve de « joker » pour ce format. 
+Dans le cadre de l’Impromptu Networking, les membres du groupe peuvent être réunis plusieurs fois de suite dans différentes [salles de groupe](../../fonctionnalites/bigbluebutton/salles-de-groupes.md) pour échanger de manière spontanée. Ils peuvent rester en groupe pour 5 minutes environ, idéalement à deux. Si le nombre de personnes ne correspond pas, il est possible de se réunir par trois ou qu’un membre de l’équipe organisatrice serve de « joker » pour ce format.
 
 {% hint style="warning" %}
 Attention : Gardez à l’esprit que [BigBlueButton](../../fonctionnalites/bigbluebutton/) n’autorise la création que de 8 salles de groupe en même temps, vous devrez donc adapter le format en conséquence à partir d’un certain nombre de personnes. Par exemple, vous pouvez utiliser des salles de café au lieu de salles de groupe \(et en créer autant que vous le souhaitez\).

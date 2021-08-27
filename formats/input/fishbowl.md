@@ -2,13 +2,12 @@
 
 Les thèmes complexes exigent de prendre en compte plusieurs perspectives. Pour ce faire, vous pouvez regrouper des expertes et des experts qui pourront partager leurs connaissances. Grâce au UX-Fishbowl, les participantes et participants peuvent également faire entendre leur voix, ce qui en fait des membres actifs de ce format d’échange !
 
-### Configuration de la salle et nombre de participants
+## Configuration de la salle et nombre de participants
 
-Pour ce format, vous créez une salle BigBlueButton dans laquelle plusieurs personnes peuvent activer leur vidéo selon la situation. Ce format n’est donc possible que pour des groupes de 40 personnes maximum.   
-Si vous souhaitez organiser un échange d’experts devant un public plus conséquent, vous pouvez bien sûr organiser un panel normal où des experts invités tiennent une conversation retransmise au public dans une autre salle. D’un point de vue technique, cela revient au même que la présentation \(keynote\), mais avec plusieurs orateurs qui forment le panel.  
+Pour ce format, vous créez une salle BigBlueButton dans laquelle plusieurs personnes peuvent activer leur vidéo selon la situation. Ce format n’est donc possible que pour des groupes de 40 personnes maximum.  
+Si vous souhaitez organiser un échange d’experts devant un public plus conséquent, vous pouvez bien sûr organiser un panel normal où des experts invités tiennent une conversation retransmise au public dans une autre salle. D’un point de vue technique, cela revient au même que la présentation \(keynote\), mais avec plusieurs orateurs qui forment le panel.
 
-
-### Mise en œuvre
+## Mise en œuvre
 
 L’UX-Fishbowl, basé sur l’idée de [Liberating Structures](https://liberatingstructures.de/liberating-structures-menue/user-experience-fishbowl/), est un Fishbowl particulier : il offre un moyen interactif de faire participer les personnes assistant à une discussion d’experts de manière rapide et continue. Contrairement à un Fishbowl classique, où on laisse habituellement une chaise inoccupée pour que les participantes et participants s’y assoient spontanément de temps en temps pour participer à la discussion, on alterne ici entre la discussion du panel et les interactions avec les participants. Cette alternance doit être annoncée par la modération au début du format, tout comme le droit de la modération d’interrompre les monologues.
 
@@ -30,19 +29,19 @@ Avant le début des sessions de groupe, la modération doit préciser que 4 ou 5
 
 Les échanges en petit groupe doivent durer entre 10 et 15 minutes. Pendant ce temps, le cercle intérieur \(le panel\) discute.
 
-Au bout de 10 à 15 minutes, tous les groupes doivent avoir terminé et la discussion en plénière peut commencer. La modération demande alors aux petits groupes de présenter leurs questions et commentaires, qui donnent lieu à une autre discussion du cercle intérieur. La modération annonce que les commentaires seront d’abord recueillis et, après quelques interventions du public, lus par paquets avant que les membres du cercle intérieur n’entament une nouvelle série d’échanges.  
-  
-Les retours peuvent se faire à l’aide des différentes méthodes de questions/réponses : le style popcorn, la liste de prises de parole, ou les questions et commentaires à l’écrit. Pour en savoir plus sur ces possibilités, lisez la description des questions/réponses du chapitre de la [présentation \(Keynote\)](keynote.md).  
-  
-La modération regroupe ensuite les questions et commentaires du cercle extérieur et demande au cercle intérieur de se pencher sur de nouveaux points. Cette étape ne se fait pas sous forme de questions-réponses classiques : les membres du panel réfléchissent ensemble à haute voix à ce qui a été dit. Là aussi, il faut faire attention au temps \(environ 10 minutes sont suffisantes, mais selon le rythme de la discussion, on peut les dépasser\). S’ensuit une nouvelle mobilisation du cercle extérieur par le biais des salles de groupe.  
-  
+Au bout de 10 à 15 minutes, tous les groupes doivent avoir terminé et la discussion en plénière peut commencer. La modération demande alors aux petits groupes de présenter leurs questions et commentaires, qui donnent lieu à une autre discussion du cercle intérieur. La modération annonce que les commentaires seront d’abord recueillis et, après quelques interventions du public, lus par paquets avant que les membres du cercle intérieur n’entament une nouvelle série d’échanges.
+
+Les retours peuvent se faire à l’aide des différentes méthodes de questions/réponses : le style popcorn, la liste de prises de parole, ou les questions et commentaires à l’écrit. Pour en savoir plus sur ces possibilités, lisez la description des questions/réponses du chapitre de la [présentation \(Keynote\)](keynote.md).
+
+La modération regroupe ensuite les questions et commentaires du cercle extérieur et demande au cercle intérieur de se pencher sur de nouveaux points. Cette étape ne se fait pas sous forme de questions-réponses classiques : les membres du panel réfléchissent ensemble à haute voix à ce qui a été dit. Là aussi, il faut faire attention au temps \(environ 10 minutes sont suffisantes, mais selon le rythme de la discussion, on peut les dépasser\). S’ensuit une nouvelle mobilisation du cercle extérieur par le biais des salles de groupe.
+
 Vous pouvez alterner entre le cercle intérieur et le cercle extérieur aussi souvent que vous voulez, en fonction de la durée du format. Le cercle extérieur devrait se réunir au moins deux fois pour échanger et pouvoir enrichir la discussion du cercle intérieur grâce à leurs prises de parole.
 
 {% hint style="success" %}
 Il est intéressant de demander au cercle intérieur de formuler une brève conclusion avant que le format ne se termine officiellement.
 {% endhint %}
 
-### Conseils techniques pour le Fishbowl numérique
+## Conseils techniques pour le Fishbowl numérique
 
 * **Création de** [**salles de groupe**](../../fonctionnalites/bigbluebutton/salles-de-groupes.md) **cercle intérieur/cercle extérieur :** Afin que les membres du panel d’experts puissent échanger entre eux pendant que le public travaille en petits groupes, vous devriez les placer dans une salle spécifique. Vous pouvez répartir toutes les personnes présentes dans les différentes salles grâce à la fonctionnalité glisser-déposer. Dans l’idéal, une équipe technique devrait se charger de la répartition pendant que la [modération](../../fonctionnalites/bigbluebutton/droits-de-moderation.md) explique comment doit se passer l’échange en groupes. Vous pouvez également choisir la fonction aléatoire, qui vous permet de réorganiser les membres du panel afin qu’ils se retrouvent dans leur propre salle de groupe. Il n’est pas conseillé d’utiliser la salle principale pour le panel, car les membres n’y sont pas seuls : la personne chargée de la modération est toujours présente et des participants spontanés peuvent également se présenter.
 * **Questions directrices pour l’activation du cercle extérieur :** Le mieux est d’écrire rapidement les questions directrices dans le [chat](../../fonctionnalites/bigbluebutton/interaction.md#chat) de la salle principale, que les participantes et participants peuvent continuer à regarder même s’ils sont dans une salle de groupe.
